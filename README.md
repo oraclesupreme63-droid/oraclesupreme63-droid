@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sebastián Caballero
 
-<!--
-**oraclesupreme63-droid/oraclesupreme63-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Systems Engineering student from Mexico, focused on Python backend development, data analysis, and motorsport technology.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- FastAPI
+- SQL / PostgreSQL
+- Data Analysis with pandas
+- APIs and backend systems
+- Motorsport data projects
+- English for tech and professional communication
+
+## What I'm Building
+
+I'm currently building projects related to:
+
+- Lap time analysis
+- Driver consistency dashboards
+- Race operations systems
+- Motorcycle maintenance tracking
+- Basic telemetry concepts
+
+## Tech Stack
+
+- Python
+- FastAPI
+- SQL
+- PostgreSQL
+- pandas
+- Streamlit
+- Git / GitHub
+
+## Long-Term Goal
+
+My goal is to grow as a backend developer and data-focused engineer, with interest in motorsport, race operations technology, and performance data systems.
