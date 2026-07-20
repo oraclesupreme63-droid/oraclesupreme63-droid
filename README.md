@@ -34,8 +34,6 @@ I'm currently building backend and data-focused projects such as:
 * FastAPI
 * SQL
 * PostgreSQL
-* pandas
-* Streamlit
 * Git / GitHub
 * REST APIs
 
