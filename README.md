@@ -13,7 +13,6 @@ My main goal is to become a strong backend developer with Python, FastAPI, SQL, 
 * Backend project structure
 * CRUD systems
 * Authentication basics
-* Data analysis with pandas
 * Git and GitHub
 * Technical English
 
