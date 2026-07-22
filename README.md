@@ -1,47 +1,85 @@
-# Hi, I'm Sebastián Caballero
+Hi, I'm Sebastián Caballero 👋
 
-I'm a Computer Systems Engineering student from Mexico, focused on Python backend development, APIs, databases, and data-driven systems.
+I'm a Computer Systems Engineering student from Mexico specializing in backend development with Python.
 
-My main goal is to become a strong backend developer with Python, FastAPI, SQL, and PostgreSQL. I’m also interested in applying backend and data skills to motorsport technology, race operations, telemetry concepts, and performance data systems.
+I'm passionate about building reliable backend systems, designing REST APIs, working with relational databases, and continuously improving my software engineering skills through practical projects.
 
-## Current Focus
+My goal is to build a strong foundation in backend engineering before specializing in scalable systems, cloud technologies, and data-driven applications.
 
-* Python backend development
-* FastAPI
-* REST APIs
-* SQL and PostgreSQL
-* Backend project structure
-* CRUD systems
-* Authentication basics
-* Git and GitHub
-* Technical English
+🚀 Current Focus
 
-## What I'm Building
+I'm currently focusing on developing professional backend skills, including:
 
-I'm currently building backend and data-focused projects such as:
+Python
+FastAPI
+Flask
+SQL & PostgreSQL
+REST API Development
+SQLAlchemy
+Git & GitHub
+Backend Architecture
+Clean Code
+Software Design Fundamentals
+Technical English
+💻 What I'm Building
 
-* Product management APIs
-* Motorcycle maintenance tracking systems
-* Race operations backend systems
-* Lap time analysis tools
-* Driver consistency dashboards
-* Basic telemetry and performance data projects
+I enjoy creating projects that simulate real-world backend applications, such as:
 
-## Tech Stack
+REST APIs with FastAPI
+Product and Inventory Management Systems
+Task Management APIs
+Authentication and Authorization Systems
+Database-driven Applications
+Backend Services with PostgreSQL
+Personal Portfolio Projects
 
-* Python
-* FastAPI
-* SQL
-* PostgreSQL
-* Git / GitHub
-* REST APIs
+Every project is an opportunity to improve my code quality, architecture, and problem-solving skills.
 
-## Professional Direction
+🛠 Tech Stack
+Languages
+Python
+SQL
+Backend
+FastAPI
+Flask
+REST APIs
+SQLAlchemy
+Databases
+PostgreSQL
+SQLite
+Tools
+Git
+GitHub
+Postman
+🎯 Professional Goal
 
-My priority is to grow as a backend developer capable of building reliable APIs, working with databases, designing structured systems, and solving real-world problems with clean backend logic.
+My objective is to start my professional career as a Python Backend Developer, contributing to meaningful projects while learning from experienced engineers.
 
-Motorsport is one of my long-term areas of interest, where I want to apply backend development, data analysis, and software tools to race operations, performance tracking, and telemetry-related systems.
+I enjoy solving problems through clean, maintainable code and continuously expanding my knowledge of backend technologies and software engineering best practices.
 
-## Long-Term Goal
+🏎 Long-Term Vision
 
-I want to become a backend developer with strong data skills, capable of building practical systems for business, engineering, and motorsport-related environments.
+One of my long-term ambitions is to combine backend development with motorsport technology.
+
+I aim to develop software for:
+
+Race operations
+Telemetry data processing
+Performance analytics
+Vehicle data systems
+Engineering dashboards
+Motorsport software tools
+
+My priority, however, is to first become a strong backend engineer capable of building reliable and scalable software.
+
+📚 Currently Learning
+Advanced FastAPI
+PostgreSQL
+Docker
+Unit Testing
+Backend Design Patterns
+Software Architecture
+Professional English
+📫 Let's Connect
+
+I'm always interested in learning, collaborating on backend projects, and connecting with other developers.
